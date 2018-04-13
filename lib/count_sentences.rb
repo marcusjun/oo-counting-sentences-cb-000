@@ -17,7 +17,7 @@ class String
   def count_sentences
 
     #Solution based on lab Instructions
-    #Unfortunately, you end up with an array of "sentences"
+    #When you split by .?! you end up with an array of "sentences"
     #without ending punctuation so you
     #couldn't even use the three methods created above.
     #Then why would you even have created those three methods?
